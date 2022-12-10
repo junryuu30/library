@@ -1,0 +1,9 @@
+buat table transaction
+rent table =>
+
+relasi tablenya ga ada?
+
+
+npx sequelize-cli model:generate --name rent --atributes IdBook:integer, IdUser:integer,return_date:string,actual_return_date:string
+
+npx sequelize-cli model:generate --name rent --attributes idbook:integer,iduser:integer,return_date:string,actual_return_date:string

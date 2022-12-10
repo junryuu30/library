@@ -1,0 +1,9 @@
+npx sequelize-cli model:generate --name book --attributes title:string,author:string,desc:text,status:string,approve:string,image:string,idUser:integer
+
+"id":1,
+        "image": books1,
+        "title":"Yes I want",
+        "penulis":"bla2",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium inventore molestiae alias debitis voluptatem placeat facere tempore mollitia dolore, distinctio quia itaque. Adipisci odit reiciendis deserunt non ad. Debitis porro quis facilis assumenda minima sunt magni obcaecati, architecto officia fuga consequatur, quisquam error omnis corporis veritatis animi quidem odit! Natus.",
+        "status":"dipinjam",
+        "approve":"yes"
